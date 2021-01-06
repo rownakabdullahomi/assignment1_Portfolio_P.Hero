@@ -1,0 +1,263 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.clear {
+    overflow: hidden;
+}
+.navsection {
+    width: 100%;
+    height: 100px;
+}
+.navmenu {
+    width: 38%;
+    float: right;
+    padding-top: 20px;
+}
+.navmenu a {
+    font-family: arial;
+    color: #3C3C3C;
+    font-weight: bold;
+    text-decoration: none;
+    margin-right: 50px;
+    font-size: 16px;
+}
+.contentsection1 {
+    width: 100%;
+}
+.halfportion {
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 3%;
+    margin-bottom: 100px;
+    height: 560px;
+}
+.heading {
+    padding-top: 40px;
+}
+h1 {
+    font-size: 52px;
+    color: #363958;
+}
+.halfportion p {
+    margin-top: 20px;
+    margin-bottom: 70px;
+    padding-right: 160px;
+}
+p {
+    color: #4F4F4F;
+    text-align: justify;
+}
+.name {
+    color: #FF8367;
+}
+body{
+    font-family: 'Oswald', sans-serif;
+}
+.halfportion {
+    width: 40%;
+    float: left;
+    margin-left: 4%;
+    padding-left: 3%;
+    margin-bottom: 100px; 
+}
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(360deg, #FC7862, #F56A6A);
+    padding: 16px 70px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+}
+.link-button i{
+    margin-right: 10px;
+}
+.halfportion img {
+    width: 100%;   
+}
+.contentsection2 {
+    width: 100%;
+}
+h2 {
+    font-size: 40px;
+    color: #363958;
+}
+.aboutcontent {
+    padding-left: 90px;
+    padding-top: 80px;
+    height: 400px;
+}
+.aboutcontent p {
+    margin-right: -105px;
+}
+
+.latestwork {
+    width: 100%;
+    background-color: #F8F8F8;
+    height: 680px;
+}
+.latestworktitle {
+    margin-top: 50px; 
+}
+.latestworktitle h1 {
+    text-align: center;
+    font-size: 38px;
+}
+.latestworktitle span {
+    color: #F46060;
+}
+
+.threeportion {
+    background: #fff none repeat scroll 0 0;
+    box-shadow: 5px 5px 10px 10px #EFF0F3;
+    float: left;
+    margin-left: 78px;
+    padding: 2px;
+    width: 345px;
+    height: 345px;
+    margin-top: 105px;
+    border-radius: 15px;
+    margin-bottom: 500px;
+}
+.threeportion img {
+    width: 94%;
+    padding: 10px;
+}
+.threeportion h2{
+    font-size: 25px;
+    padding-left: 22px;
+}
+.threeportion p {
+    padding-left: 22px;
+    padding-right: 21px;
+    margin-top: 10px;
+}
+
+.skillsection{
+    width: 100%;
+    background-color: #ECE9D8;
+}
+.skillportion {
+    width: 90%;
+    margin: 65px;
+    height: 520px;
+    padding-left: 15px;
+}
+.skillportion h1 {
+    text-align: center;
+    margin-bottom: 40px;
+}
+.singleskill {
+    width: 366px;
+    margin-right: 24px;
+    float: left;
+    border: 7px solid skyblue;
+    border-radius: 15px;
+}
+.singleskill i {
+    font-size: 80px;
+    padding-left: 144px;
+    padding-top: 50px;
+}
+.singleskill h3 {
+    padding-top: 20px;
+    padding-left: 40%;
+}
+.singleskill p {
+    text-align: center;
+    margin: 20px;
+}
+.singleskill h4 {
+    text-align: center;
+    margin-top: 65px;
+}
+
+.conversationsection{
+    width: 100%;
+    height: 300px;
+}
+.conversation{
+    margin-top: 120px;
+}
+.conversation h2{
+    text-align: center;
+}
+.conversation p {
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 22px;
+    color: tomato;
+}
+.conversation a {
+    text-decoration: none;
+    padding: 595px;
+}
+.conversation a {
+    text-decoration: none;
+    padding: 602px;
+    font-size: 28px;
+}
+
+.chatsection{
+    width: 100%;
+}
+
+
+.chatcontent img {
+    width: 899px;
+    padding-left: 228px;
+    padding-top: 160px;
+}
+.chatcontent a {
+    text-decoration: none;
+    position: absolute;
+    margin-left: -244px;
+    margin-top: 246px;
+    background-image: linear-gradient(360deg, #FC7862, #F56A6A);
+    padding: 20px 30px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+    font-family: arial;
+}
+.chatcontent i{
+    margin-right: 10px;
+}
+.footersection{
+    width: 100%;
+}
+.footercontent {
+    width: 90%;
+    height: 275px;
+    margin-top: 82px;
+}
+.footercontent h2 {
+    text-align: center;
+    color: #A5A5AE;
+    margin-left: 145px;
+    font-size: 25px;
+}
+.footercontent h1 {
+    text-align: center;
+    color: #4B4E6D;
+    margin-left: 124px;
+    font-size: 38px;
+    margin-top: 10px;
+}
+.icon {
+    padding-left: 588px;
+}
+.icon img {
+    height: 40px;
+    padding-right: 30px;
+    margin-top: 34px;
+}
+footer p {
+    text-align: center;
+    font-size: 15px;
+    margin-top: 100px;
+    font-family: arial;
+}
