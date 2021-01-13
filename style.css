@@ -191,13 +191,10 @@ h2 {
     font-size: 22px;
     color: tomato;
 }
+
 .conversation a {
     text-decoration: none;
-    padding: 595px;
-}
-.conversation a {
-    text-decoration: none;
-    padding: 602px;
+    padding-left: 602px;
     font-size: 28px;
 }
 
